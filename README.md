@@ -26,18 +26,18 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=52js&repo=ElectronFish)](https://github.com/52js/ElectronFish)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PyCoreDev&repo=ElectronFish)](https://github.com/PyCoreDev/ElectronFish)
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=52js&repo=countdown-after-work)](https://github.com/52js/countdown-after-work)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PyCoreDev&repo=countdown-after-work)](https://github.com/PyCoreDev/countdown-after-work)
 
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=52js&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![52js github stats](https://github-readme-stats.vercel.app/api?username=52js&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=PyCoreDev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![PyCoreDev github stats](https://github-readme-stats.vercel.app/api?username=PyCoreDev&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=52js&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=52js&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyCoreDev&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyCoreDev&layout=compact&langs_count=6)
